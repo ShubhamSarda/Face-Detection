@@ -13,9 +13,7 @@ OpenCV Face Recognition in Python
 Before Starting OpenCV Face Recognition, Understand - 
 
 Python 3.x
-
 OpenCV 3.x
-
 Numpy
 
 1. Create empty Folder named "dataSet" and "training-data" in the same directory where the python scripts are. 
